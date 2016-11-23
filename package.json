@@ -1,0 +1,15 @@
+{
+  "name": "purifycss",
+  "version": "1.0.0",
+  "description": "A file for testing Grunt PurifyCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adi Purdila",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-purifycss": "^0.1.1"
+  }
+}
